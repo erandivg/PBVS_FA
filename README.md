@@ -6,4 +6,4 @@
 </p>
 
 watch video:
-[video](https://www.youtube.com/watch?v=EHMxuQv3gU8)
+https://www.youtube.com/watch?v=EHMxuQv3gU8
