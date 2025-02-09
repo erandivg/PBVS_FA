@@ -5,5 +5,5 @@
   <img src="./simulation.gif" alt="simulation">
 </p>
 
-watch video:
+watch the following video:
 https://www.youtube.com/watch?v=EHMxuQv3gU8
