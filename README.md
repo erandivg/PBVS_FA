@@ -1,4 +1,9 @@
 # PBVS_FA
 
 
-![simulation](./simulation.gif)
+<p align="center">
+  <img src="./simulation.gif" alt="simulation">
+</p>
+
+watch video:
+[video](https://www.youtube.com/watch?v=EHMxuQv3gU8)
