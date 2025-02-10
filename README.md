@@ -71,3 +71,8 @@ https://www.youtube.com/watch?v=EHMxuQv3gU8
     <img src="https://contrib.rocks/image?repo=erandivg/PBVS_FA" />
   </a>
 </p>
+
+- [@erandivg](https://github.com/erandivg)  
+- [@gfloresc](https://github.com/gfloresc)  
+- [@Rodolfo9706]([https://github.com/usuario2](https://github.com/Rodolfo9706))
+
