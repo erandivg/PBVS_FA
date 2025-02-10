@@ -75,6 +75,7 @@ https://www.youtube.com/watch?v=EHMxuQv3gU8
 - [@erandivg](https://github.com/erandivg)  
 - [@gfloresc](https://github.com/gfloresc)  
 - [@Rodolfo9706](https://github.com/Rodolfo9706)
+- [@NoePity2](https://github.com/NoePity2)
 
 ---
 
