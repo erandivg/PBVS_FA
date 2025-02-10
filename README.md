@@ -55,11 +55,21 @@ roslaunch offboard start_offb.launch
 
 This program was developed and tested in **ROS 1 Noetic**. 🚀
 
-
-
 <p align="center">
   <img src="./simulation.gif" alt="simulation">
 </p>
 
 watch the following video:
 https://www.youtube.com/watch?v=EHMxuQv3gU8
+
+---
+
+## Contributors  
+
+## Contributors  
+
+<p align="center">
+  <a href="https://github.com/erandivg/PBVS_FA/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=erandivg/PBVS_FA" />
+  </a>
+</p>
