@@ -66,12 +66,6 @@ https://www.youtube.com/watch?v=EHMxuQv3gU8
 
 ## Contributors  
 
-<p align="center">
-  <a href="https://github.com/erandivg/PBVS_FA/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=erandivg/PBVS_FA" />
-  </a>
-</p>
-
 - [@erandivg](https://github.com/erandivg)  
 - [@gfloresc](https://github.com/gfloresc)  
 - [@Rodolfo9706](https://github.com/Rodolfo9706)
